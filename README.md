@@ -14,3 +14,8 @@ However, the winning rules will depend on above user selections and “Game Draw
 either complete horizontal, vertical or diagonal line will be the winner. 
 
 ![Screenshot 2021-04-28 220149](https://user-images.githubusercontent.com/49945253/116439594-5a9be580-a86d-11eb-8e9e-4a77658f98c8.png)
+
+Deployment Guide:
+
+*** Bundles may start out of order and some bundle exception may occur, if something like that happens stop all 4 bundles and start them again in given order below. **
+
