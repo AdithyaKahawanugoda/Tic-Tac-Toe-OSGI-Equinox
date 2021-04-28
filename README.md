@@ -20,3 +20,6 @@ Deployment Guide:
 *** Bundles may start out of order and some bundle exception may occur, if something like that happens stop all 4 bundles and start them again in given order below. **
 
 ![Screenshot 2021-04-28 220757](https://user-images.githubusercontent.com/49945253/116440511-368cd400-a86e-11eb-97ae-a0d304030ef8.png)
+
+![Screenshot 2021-04-28 220900](https://user-images.githubusercontent.com/49945253/116440708-620fbe80-a86e-11eb-9359-e73c4b4be0f5.png)
+
