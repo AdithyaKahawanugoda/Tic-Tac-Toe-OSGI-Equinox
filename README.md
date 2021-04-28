@@ -12,3 +12,5 @@ with user preferred design and scale as the game board. This game delivers two d
 2. Player vs PC
 However, the winning rules will depend on above user selections and “Game Draw” is also under the possible outcomes. Finally, the first player who mark 
 either complete horizontal, vertical or diagonal line will be the winner. 
+
+![Screenshot 2021-04-28 220149](https://user-images.githubusercontent.com/49945253/116439594-5a9be580-a86d-11eb-8e9e-4a77658f98c8.png)
